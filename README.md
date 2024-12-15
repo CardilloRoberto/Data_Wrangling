@@ -35,6 +35,11 @@ This project focuses on data preprocessing and visualization using financial dat
    - Produces bar plots and summaries of financial trends.
 
 ---
+## Chat Screenshot
+Here’s a screenshot of the chat that inspired this project:
+
+![Chat Screenshot](https://raw.githubusercontent.com/your-username/your-repository/main/chat_screenshot.png)
+
 
 ## 📂 Project Structure
 
@@ -45,3 +50,6 @@ This project focuses on data preprocessing and visualization using financial dat
 ├── (2.3) WDI Income Group.xlsx # Income Group metadata
 ├── (2.4) WDI Country.xlsx      # Country-level metadata
 ├── README.md              # Documentation
+
+
+
