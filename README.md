@@ -35,10 +35,13 @@ This project focuses on data preprocessing and visualization using financial dat
    - Produces bar plots and summaries of financial trends.
 
 ---
+
 ## Chat Screenshot
+
 Here’s a screenshot of the chat that inspired this project:
 
-Image 15-12-2024 at 16.24.jpeg
+![Chat Screenshot](https://github.com/CardilloRoberto/Data_Wrangling/blob/main/Image%2015-12-2024%20at%2016.24.jpeg)
+
 
 
 ## 📂 Project Structure
