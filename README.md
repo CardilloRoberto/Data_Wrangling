@@ -38,7 +38,7 @@ This project focuses on data preprocessing and visualization using financial dat
 ## Chat Screenshot
 Here’s a screenshot of the chat that inspired this project:
 
-![Chat Screenshot](https://raw.githubusercontent.com/your-username/your-repository/main/chat_screenshot.png)
+Image 15-12-2024 at 16.24.jpeg
 
 
 ## 📂 Project Structure
